@@ -1,4 +1,4 @@
-[![Code Climate](https://codeclimate.com/github/matteomanzo/PigPong/badges/gpa.svg)](https://codeclimate.com/github/matteomanzo/PigPong) <a href="https://codeclimate.com/github/matteomanzo/PigPong"><img src="https://codeclimate.com/github/matteomanzo/PigPong/badges/coverage.svg" /></a>
+[![Code Climate](https://codeclimate.com/github/matteomanzo/PigPong/badges/gpa.svg)](https://codeclimate.com/github/matteomanzo/PigPong) [![Test Coverage](https://codeclimate.com/github/matteomanzo/PigPong/badges/coverage.svg)](https://codeclimate.com/github/matteomanzo/PigPong)
 
 Pig Pong
 =======================

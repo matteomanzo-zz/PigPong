@@ -11,7 +11,7 @@ TESTS=$(shell find test/ -name "*.feature")
 
 coverage:
   # check if reports folder exists, if not create it
-	@NODE_ENV=cucumber $(ISTAMBUL) cover $(CUCUMBER)  && cat ./coverage/lcov.info | $(COVERALLS) && rm -rf ./coverage
+	@NODE_ENV=cucumber $(ISTANBUL) cover $(CUCUMBER)  && cat ./coverage/lcov.info | $(COVERALLS) && rm -rf ./coverage
 
 # vim => :map ,f :w\|!clear && make cucumber<cr>
 cucumber:

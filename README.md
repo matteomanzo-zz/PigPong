@@ -65,6 +65,7 @@ Choose what physics to use and enable the body of the object to collide with oth
 - [ ] Web Sockets for multiplayer game
 - [ ] Character can shoot
 - [ ] Game tests
+- [ ] Phisycs to be improved, bird view
 
 ## Takeaway
 

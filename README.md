@@ -1,6 +1,6 @@
 [![Code Climate](https://codeclimate.com/github/matteomanzo/PigPong/badges/gpa.svg)](https://codeclimate.com/github/matteomanzo/PigPong) [![Test Coverage](https://codeclimate.com/github/matteomanzo/PigPong/badges/coverage.svg)](https://codeclimate.com/github/matteomanzo/PigPong)
 
-Pig Pong
+[Pig Pong](zombie-pig-pong.herokuapp.com)
 =======================
 
 ## What is this?
@@ -65,6 +65,7 @@ Choose what physics to use and enable the body of the object to collide with oth
 - [ ] Web Sockets for multiplayer game
 - [ ] Character can shoot
 - [ ] Game tests
+- [ ] Phisycs to be improved, bird view
 
 ## Takeaway
 

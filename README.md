@@ -3,7 +3,7 @@
 Pig Pong
 =======================
 
-## What is it?
+## What is this?
 
 This is a project for the Makerthon week (week 8 at Makers Academy).
 We decided to build a realtime game, where you are a farmer and you have to avoid the zombie pigs bouncing around.
